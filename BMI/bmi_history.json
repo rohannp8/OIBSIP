@@ -1,0 +1,74 @@
+[
+    {
+        "user": "ojas",
+        "weight": 56.0,
+        "height": 1.7,
+        "bmi": 19.38,
+        "status": "Normal",
+        "date": "2025-12-01"
+    },
+    {
+        "user": "ojas",
+        "weight": 56.0,
+        "height": 1.7,
+        "bmi": 19.38,
+        "status": "Normal",
+        "date": "2025-12-01"
+    },
+    {
+        "user": "rutu",
+        "weight": 78.0,
+        "height": 1.7,
+        "bmi": 26.99,
+        "status": "Overweight",
+        "date": "2025-12-01"
+    },
+    {
+        "user": "rutu",
+        "weight": 58.0,
+        "height": 1.8,
+        "bmi": 17.9,
+        "status": "Underweight",
+        "date": "2025-12-01"
+    },
+    {
+        "user": "rutu",
+        "weight": 56.0,
+        "height": 1.7,
+        "bmi": 19.38,
+        "status": "Normal",
+        "date": "2025-12-02"
+    },
+    {
+        "user": "rutu",
+        "weight": 56.0,
+        "height": 1.7,
+        "bmi": 19.38,
+        "status": "Normal",
+        "date": "2025-12-02"
+    },
+    {
+        "user": "rutu",
+        "weight": 56.0,
+        "height": 1.7,
+        "bmi": 19.38,
+        "status": "Normal",
+        "date": "2025-12-02"
+    },
+    {
+        "user": "rutu",
+        "weight": 55.0,
+        "height": 1.7,
+        "bmi": 19.03,
+        "status": "Normal",
+        "date": "2025-12-02"
+    },
+    {
+        "user": "rohan",
+        "weight": 45.0,
+        "height": 1.5,
+        "bmi": 20.0,
+        "status": "Normal",
+        "date": "2025-12-02"
+    }
+]
